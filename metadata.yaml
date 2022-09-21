@@ -1,0 +1,37 @@
+_repo: The-book-of-Evelyn_68941
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Brown, Arthur William
+    birthdate: 1881
+    deathdate: 1966
+    gutenberg_agent_id: '6352'
+    url: http://www.gutenberg.org/2009/agents/6352
+creator:
+  author:
+    agent_name: Bonner, Geraldine
+    birthdate: 1870
+    deathdate: 1930
+    gutenberg_agent_id: '3132'
+    url: http://www.gutenberg.org/2009/agents/3132
+    wikipedia: https://en.wikipedia.org/wiki/Geraldine_Bonner
+description: ''
+gutenberg_issued: '2022-09-09'
+identifiers:
+  gutenberg: '68941'
+language: en
+pgterms:marc904: https://archive.org/details/bookofevelyn00bonnrich
+pgterms:marc905: 20181124081426bonner
+pgterms:marc906: '1913'
+pgterms:marc907: US
+production_note: D A Alexander and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by University of California
+  libraries)
+publication_note: United States :The Bobbs-Merrill Company,1913.
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The book of Evelyn
+url: http://www.gutenberg.org/ebooks/68941
